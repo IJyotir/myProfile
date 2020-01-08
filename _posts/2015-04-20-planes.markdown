@@ -1,6 +1,6 @@
 ---
-title:  "Planes are cool!"
-subtitle: "The Fly!"
+title:  "Freedom"
+subtitle: "A journey of a thousand miles begins with a single step". — Lao Tzu"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/a.jpg"
