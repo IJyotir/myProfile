@@ -1,6 +1,6 @@
 ---
-title:  "Watches"
-subtitle: "The Bigger the better?"
+title:  "Watch the Security and Derivative"
+subtitle: "The Bigger the better? Bull or Bear"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/c.jpg"
