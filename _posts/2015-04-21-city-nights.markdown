@@ -1,6 +1,6 @@
 ---
-title:  "Nobody else was around."
-subtitle: "A Beautiful shot during the night."
+title:  "Nobody else was around.- Me & Books"
+subtitle: "Learning never exhausts the mind."
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/b.jpg"
