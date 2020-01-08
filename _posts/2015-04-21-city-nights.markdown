@@ -1,5 +1,5 @@
 ---
-title:  "Nobody else was around.- Me & Books"
+title:  "Nobody else was around - Me & Books"
 subtitle: "Learning never exhausts the mind."
 author: "Wferr"
 avatar: "img/authors/wferr.png"
