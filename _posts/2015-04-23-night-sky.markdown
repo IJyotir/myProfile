@@ -1,6 +1,6 @@
 ---
-title:  "Absense of light"
-subtitle: "Only lights from space"
+title:  "Light and Dark in 3D Animation"
+subtitle: "Light and Dark together"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/d.jpg"
