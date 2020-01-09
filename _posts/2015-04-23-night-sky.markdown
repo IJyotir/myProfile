@@ -1,5 +1,5 @@
 ---
-title:  "Light and Dark in 3D Animation"
+title:  "Animation Artist"
 subtitle: "The sun does not abandon the moon to darkness."
 author: "Wferr"
 avatar: "img/authors/wferr.png"
