@@ -29,7 +29,7 @@ date:   2015-04-21 12:12:12
 
 ## **Thinking Fast and Slow - Daniel Kahneman**
 
-"There have been many good books on human rationality and irrationality, but only one masterpiece. That masterpiece is Daniel Kahneman's  _Thinking, Fast and Slow._  Kahneman, a winner of the Nobel Prize for economics, distils a lifetime of research into an encyclopedic coverage of both the surprising miracles and the equally surprising mistakes of our conscious and unconscious thinking. He achieves an even greater miracle by weaving his insights into an engaging narrative that is compulsively readable from beginning to end. 
+There have been many good books on human rationality and irrationality, but only one masterpiece. That masterpiece is Daniel Kahneman's  _Thinking, Fast and Slow._  Kahneman, a winner of the Nobel Prize for economics, distils a lifetime of research into an encyclopedic coverage of both the surprising miracles and the equally surprising mistakes of our conscious and unconscious thinking. He achieves an even greater miracle by weaving his insights into an engaging narrative that is compulsively readable from beginning to end. 
 
 ## **Inglorious Empire - Shashi Tharoor**
 
