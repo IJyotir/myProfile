@@ -1,7 +1,7 @@
 ---
 title:  "Nobody else was around - Me & Books"
 subtitle: "Learning never exhausts the mind."
-author: "Wferr"
+author: "Jbo"
 avatar: "img/authors/wferr.png"
 image: "img/b.jpg"
 date:   2015-04-21 12:12:12
@@ -9,7 +9,13 @@ date:   2015-04-21 12:12:12
 
 ## **Books 2020**
 
-1. The Infinite Game - Simon Sinek
+1. The Infinite Game - How Great Businesses Achieve Long-lasting Success
+2. ........Looking for a interesting new read ........
+
+## **The Infinite Game - Simon Sinek**
+
+Not only for business people, but for everyone. This book opened more my mind to the meaning of life. Everyone with a spark of good inside could get inspired and think onwards what choices they make for improving their life and especially the lives of others in the long term. This book would teach me patience in life working for a better tomorrow.  
+What I've thought before, it's actually here too: that better is better than the best. The process in getting better and sticking to our Just Cause might be long (actually being infinite) and not pleasant at all times but it's more worth it than to look only for the short-term material success.
 
 ## **Books 2019**
 
@@ -29,7 +35,7 @@ date:   2015-04-21 12:12:12
 
 ## **Thinking Fast and Slow - Daniel Kahneman**
 
-There have been many good books on human rationality and irrationality, but only one masterpiece. That masterpiece is Daniel Kahneman's  _Thinking, Fast and Slow._  Kahneman, a winner of the Nobel Prize for economics, distils a lifetime of research into an encyclopedic coverage of both the surprising miracles and the equally surprising mistakes of our conscious and unconscious thinking. He achieves an even greater miracle by weaving his insights into an engaging narrative that is compulsively readable from beginning to end. 
+"There have been many good books on human rationality and irrationality, but only one masterpiece. That masterpiece is Daniel Kahneman's  _Thinking, Fast and Slow._  Kahneman, a winner of the Nobel Prize for economics, distils a lifetime of research into an encyclopedic coverage of both the surprising miracles and the equally surprising mistakes of our conscious and unconscious thinking. He achieves an even greater miracle by weaving his insights into an engaging narrative that is compulsively readable from beginning to end. 
 
 ## **Inglorious Empire - Shashi Tharoor**
 
@@ -69,12 +75,50 @@ Rooted in the real-life experiences of an intelligence professional at the top o
 
 ## **Permanent Record -Edward Snowden**
 
+Edward Snowden, the man who risked everything to expose the US government’s system of mass surveillance, reveals for the first time the story of his life, including how he helped to build that system and what motivated him to try to bring it down.
+
+In 2013, 29-year-old Edward Snowden shocked the world when he broke with the American intelligence establishment and revealed that the United States government was secretly pursuing the means to collect every single phone call, text message, and email. The result would be an unprecedented system of mass surveillance with the ability to pry into the private lives of every person on earth. Six years later, Snowden reveals for the very first time how he helped to build this system and why he was moved to expose it.
+
+Spanning the bucolic Beltway suburbs of his childhood and the clandestine CIA and NSA postings of his adulthood,  _Permanent Record_  is the extraordinary account of a bright young man who grew up online – a man who became a spy, a whistleblower, and, in exile, the Internet’s conscience. Written with wit, grace, passion, and an unflinching candor,  _Permanent Record_  is a crucial memoir of our digital age and destined to be a classic.
+
 ## **The Dhandho Investor- Mohnish Pabrai**
+A comprehensive value-investing framework for the individual investor.
+
+In a straightforward and accessible manner,  _The Dhandho Investor_ lays out the powerful framework of value investing. Written with the intelligent individual investor in mind, this comprehensive guide distills the Dhandho capital allocation framework of the business-savvy Patels from India and presents how they can be applied successfully to the stock market. The Dhandho method expands on the groundbreaking principles of value investing expounded by Benjamin Graham, Warren Buffett, and Charlie Munger.
+
+Listeners will be introduced to important value investing concepts such as "Heads, I win! Tails, I don't lose that much!", "Few Bets, Big Bets, Infrequent Bets", Abhimanyu's dilemma, and a detailed treatise on using the Kelly Formula to invest in undervalued stocks.
+
+Using a light, entertaining style, Pabrai lays out the Dhandho framework in an easy-to-use format. Any investor who adopts the framework is bound to improve on results and soundly beat the markets and most professionals.
+
 
 ## **Liar's Poker - Michael Lewis**
 
+It was wonderful to be young and working on Wall Street in the 1980s - never had so many 24-year-olds made so much money in so little time.
+
+In this shrewd and wickedly funny audiobook, Michael Lewis describes an astonishing era and his own rake's progress through a powerful investment bank. From an unlikely beginning (art history at Princeton?) he rose in two short years from Salomon Brothers trainee to Geek (the lowest form of life on the trading floor) to Big Swinging Dick: a bond salesman who could turn over millions of dollars' worth of doubtful bonds with just one call.
+
+A born storyteller, Michael Lewis shows us how things really worked on Wall Street. The bond traders, wearing greed and ambition as badges of honor, might well have swaggered straight from the pages of  _Bonfire of the Vanities_. But for all their outrageous behavior, they were in fact presiding over enormous changes in the world economy. Lewis' job was to transfer money, in the form of bonds, from those outside America who saved to those inside America who consumed. In doing so, he generated tens of millions of dollars for Salomon Brothers and earned for himself a ringside seat on the greatest financial spectacle of the decade: the leveraging of America.
+
 ## **The One Thing - Garry Keller, Jay Papasan**
+This is an audiobook for busy people. If you want less on your plate and more for your life and career, tune in to the #1 _Wall Street Journal_ best seller, _The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary Results_. The ONE Thing will bring your life and your work into focus. Authors Gary Keller and Jay Papasan teach you the tricks to cut through the clutter, achieve better results in less time, dial down stress, and master what matters to you
 
 ## **Atomic Habits - James Clear**
 
+A revolutionary system to get 1 percent better every day.
+
+People think when you want to change your life, you need to think big. But world-renowned habits expert James Clear has discovered another way. He knows that real change comes from the compound effect of hundreds of small decisions - doing two push-ups a day, waking up five minutes early or holding a single short phone call.
+
+He calls them atomic habits.
+
+In this groundbreaking book, Clears reveals exactly how these minuscule changes can grow into such life-altering outcomes. He uncovers a handful of simple life hacks (the forgotten art of Habit Stacking, the unexpected power of the Two Minute Rule or the trick to entering the Goldilocks Zone) and delves into cutting-edge psychology and neuroscience to explain why they matter. Along the way, he tells inspiring stories of Olympic gold medalists, leading CEOs and distinguished scientists who have used the science of tiny habits to stay productive, motivated and happy.
+
+These small changes will have a revolutionary effect on your career, your relationships and your life.
+
 ## **The Hard Thing About Hard Things- James Clear**
+
+Ben Horowitz, cofounder of Andreessen Horowitz and one of Silicon Valley’s most respected and experienced entrepreneurs, offers essential advice on building and running a startup - practical wisdom for managing the toughest problems business school doesn’t cover, based on his popular ben’s blog.
+
+While many people talk about how great it is to start a business, very few are honest about how difficult it is to run one. Ben Horowitz analyzes the problems that confront leaders every day, sharing the insights he’s gained developing, managing, selling, buying, investing in, and supervising technology companies. A lifelong rap fanatic, he amplifies business lessons with lyrics from his favorite songs, telling it straight about everything from firing friends to poaching competitors, cultivating and sustaining a CEO mentality to knowing the right time to cash in.
+
+Filled with his trademark humor and straight talk,  _The Hard Thing About Hard Things_  is invaluable for veteran entrepreneurs as well as those aspiring to their own new ventures, drawing from Horowitz’s personal and often humbling experiences.
+
