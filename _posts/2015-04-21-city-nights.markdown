@@ -10,7 +10,7 @@ date:   2020-01-14 10:17:15
 ## **Books 2020**
 
 1. The Infinite Game - How Great Businesses Achieve Long-lasting Success
-2. ........Looking for a interesting new read ........
+2. Looking for an interesting new read.
 
 ## **The Infinite Game - Simon Sinek**
 Not only for business people, but for everyone. This book opened more my mind to the meaning of life. Everyone with a spark of good inside could get inspired and think onwards what choices they make for improving their life and especially the lives of others in the long term. This book would teach me patience in life working for a better tomorrow.  
