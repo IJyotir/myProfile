@@ -7,4 +7,4 @@ image: "img/f.jpg"
 date:   2020-01-15 09:15:17
 ---
 
-<img src="img/Summary_1.jpg" alt="Resume" width=50% height=65%>
+<img src="img/Summary_1.jpg" alt="Resume" width="50%" height="65%">
