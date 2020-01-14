@@ -6,9 +6,3 @@ avatar: "img/authors/wferr.png"
 image: "img/e.jpg"
 date:   2020-01-04 10:12:15
 ---
-
-<object data="https://github.com/IJyotir/myProfile/tree/gh-pages/document/Jyoti_bose_Summary.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/IJyotir/myProfile/tree/gh-pages/document/Jyoti_bose_Summary.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
