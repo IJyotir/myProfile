@@ -13,6 +13,7 @@ date:   2020-01-14 10:17:15
 2. Looking for an interesting new read.
 
 ## **The Infinite Game - Simon Sinek**
+
 Not only for business people, but for everyone. This book opened more my mind to the meaning of life. Everyone with a spark of good inside could get inspired and think onwards what choices they make for improving their life and especially the lives of others in the long term. This book would teach me patience in life working for a better tomorrow.  What I've thought before, it's actually here too: that better is better than the best. The process in getting better and sticking to our Just Cause might be long (actually being infinite) and not pleasant at all times but it's more worth it than to look only for the short-term material success.
 
 ## **Books 2019**
@@ -80,6 +81,7 @@ In 2013, 29-year-old Edward Snowden shocked the world when he broke with the Ame
 Spanning the bucolic Beltway suburbs of his childhood and the clandestine CIA and NSA postings of his adulthood,  _Permanent Record_  is the extraordinary account of a bright young man who grew up online – a man who became a spy, a whistleblower, and, in exile, the Internet’s conscience. Written with wit, grace, passion, and an unflinching candor,  _Permanent Record_  is a crucial memoir of our digital age and destined to be a classic.
 
 ## **The Dhandho Investor- Mohnish Pabrai**
+
 A comprehensive value-investing framework for the individual investor.
 
 In a straightforward and accessible manner,  _The Dhandho Investor_ lays out the powerful framework of value investing. Written with the intelligent individual investor in mind, this comprehensive guide distills the Dhandho capital allocation framework of the business-savvy Patels from India and presents how they can be applied successfully to the stock market. The Dhandho method expands on the groundbreaking principles of value investing expounded by Benjamin Graham, Warren Buffett, and Charlie Munger.
