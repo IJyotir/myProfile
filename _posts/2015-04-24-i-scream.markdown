@@ -7,4 +7,4 @@ image: "img/e.jpg"
 date:   2020-01-04 10:12:15
 ---
 
-<img src="img/Summary_1.jpg" alt="linearly separable data">
+<img src="img/Summary_1.jpg" alt="Resume" width="100" height="100">
