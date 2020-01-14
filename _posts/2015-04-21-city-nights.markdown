@@ -4,7 +4,7 @@ subtitle: "Learning never exhausts the mind."
 author: "Jbo"
 avatar: "img/authors/wferr.png"
 image: "img/b.jpg"
-date:   2015-04-21 12:12:12
+date:   2020-01-14 10:17:15
 ---
 
 ## **Books 2020**
