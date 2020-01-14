@@ -13,8 +13,7 @@ date:   2020-01-14 10:17:15
 2. Looking for an interesting new read.
 
 ## **The Infinite Game - Simon Sinek**
-Not only for business people, but for everyone. This book opened more my mind to the meaning of life. Everyone with a spark of good inside could get inspired and think onwards what choices they make for improving their life and especially the lives of others in the long term. This book would teach me patience in life working for a better tomorrow.  
-What I've thought before, it's actually here too: that better is better than the best. The process in getting better and sticking to our Just Cause might be long (actually being infinite) and not pleasant at all times but it's more worth it than to look only for the short-term material success.
+Not only for business people, but for everyone. This book opened more my mind to the meaning of life. Everyone with a spark of good inside could get inspired and think onwards what choices they make for improving their life and especially the lives of others in the long term. This book would teach me patience in life working for a better tomorrow.  What I've thought before, it's actually here too: that better is better than the best. The process in getting better and sticking to our Just Cause might be long (actually being infinite) and not pleasant at all times but it's more worth it than to look only for the short-term material success.
 
 ## **Books 2019**
 
