@@ -7,4 +7,4 @@ image: "img/e.jpg"
 date:   2020-01-04 10:12:15
 ---
 
-![alt](https://github.com/IJyotir/myProfile/blob/gh-pages/img/Summary_1.jpg)
+<img src="{{ site.url }}{{ site.baseurl }}/img/Summary_1.jpg" alt="linearly separable data">
