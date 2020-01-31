@@ -7,4 +7,21 @@ image: "img/e.jpg"
 date:   2020-01-04 10:12:15
 ---
 
-[Pytorch Fundamental](https://github.com/ijbo/ML_Theory/blob/master/Pytorch/Pytorch_Fundatmentals.ipynb)
+
+
+
+
+
+
+1. [Pytorch Fundamental](https://github.com/ijbo/ML_Theory/blob/master/Pytorch/Pytorch_Fundatmentals.ipynb)
+
+# Reasons to Learn Pytorch : 
+1. [Tutorial ](https://pytorch.org/tutorials/)  : The tutorial of Pytorch covers a lot of basics to Build a Deep Neural Net. Very easy to start development with pytorch since it  is very similar to Python.
+2. [Image](https://pytorch.org/tutorials/#image) : Basic Examples on building Deep Neural nets and GAN's.
+3. [Audio](https://pytorch.org/tutorials/#image) : Lets you handle Audio files and provides api's for Machine Learning . 
+4. [Text](https://pytorch.org/tutorials/#image) :  NLP using RNN and LSTM.
+5. [Why Pytorch ] (https://www.fast.ai/2017/09/08/introducing-pytorch-for-fastai/) : This Link Provide one of the best Machine Learning courses using Pytorch.
+6. Many Companies are adopting Pytorch 
+-  [Microsoft](https://twitter.com/jeremyphoward/status/1182444543574044677?lang=en)
+-  [OpenAI](https://twitter.com/OpenAI/status/1222927584033247232)
+7. [Comparisions between Pytorch and TF](https://builtin.com/data-science/pytorch-vs-tensorflow)
