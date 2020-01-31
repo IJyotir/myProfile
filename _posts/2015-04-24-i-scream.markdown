@@ -16,7 +16,7 @@ date:   2020-01-04 10:12:15
 4. <u>**[`Text`](https://pytorch.org/tutorials/#text)**</u> :  NLP using RNN and LSTM.
 5. <u>**[`Why Pytorch` ](https://www.fast.ai/2017/09/08/introducing-pytorch-for-fastai/)**</u> : This Link Provide one of the best Machine Learning courses using Pytorch.
 6. Many Companies are adopting Pytorch 
--  [Microsoft](https://twitter.com/jeremyphoward/status/1182444543574044677?lang=en)
--  [OpenAI](https://twitter.com/OpenAI/status/1222927584033247232)
+-  [`Microsoft`](https://twitter.com/jeremyphoward/status/1182444543574044677?lang=en)
+-  [`OpenAI`](https://twitter.com/OpenAI/status/1222927584033247232)
 7. <u>**[`Comparisions between Pytorch and TF`](https://builtin.com/data-science/pytorch-vs-tensorflow)**</u>
 
