@@ -13,15 +13,15 @@ date:   2020-01-04 10:12:15
 1. **[Pytorch Fundamental : Notebook ](https://github.com/ijbo/ML_Theory/blob/master/Pytorch/Pytorch_Fundatmentals.ipynb)**
 - In this Fundamental Notebook I try to cover Numpy and Pytorch basics one need to start Pytorch coding .
 - This Covers Topics like :
-  1. Creating a Matrix.
-  2. Create Matrices with Default values
-  3. Seed for Reproduce
-  4. Numpy to Torch Bridge
-  5. Torch Tensor to Numpy
-  6. Tensor Resize
-  7. Element wise Operations
-  8. Tensor Mean
-  9. Variables and Gradients
+    1. Creating a Matrix.
+    2. Create Matrices with Default values
+    3. Seed for Reproduce
+    4. Numpy to Torch Bridge
+    5. Torch Tensor to Numpy
+    6. Tensor Resize
+    7. Element wise Operations
+    8. Tensor Mean
+    9. Variables and Gradients
 
 # Reasons to Learn Pytorch : 
 #### Date 31-Jan-2020
