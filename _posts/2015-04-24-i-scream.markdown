@@ -4,7 +4,7 @@ subtitle: "But do you scream?"
 author: "Jyoti"
 avatar: "img/authors/wferr.png"
 image: "img/e.jpg"
-date:   2020-01-04 10:12:15
+date:   2020-01-31 19:12:15
 ---
 
 # Logistic Regression :
