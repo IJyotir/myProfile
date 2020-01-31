@@ -9,7 +9,8 @@ date:   2020-01-04 10:12:15
 
 1. [Pytorch Fundamental](https://github.com/ijbo/ML_Theory/blob/master/Pytorch/Pytorch_Fundatmentals.ipynb)
 
-# Reasons to Learn Pytorch : [There is a link with the bold points] 
+# Reasons to Learn Pytorch : 
+(There is a link with the bold points) 
 1. **[Tutorial](https://pytorch.org/tutorials/)** : The tutorial of Pytorch covers a lot of basics to Build a Deep Neural Net. Very easy to start development with pytorch since it  is very similar to Python.
 2. **[Image](https://pytorch.org/tutorials/#image)**: Basic Examples on building Deep Neural nets and GAN's.
 3. **[Audio](https://pytorch.org/tutorials/#audio)**: Lets you handle Audio files and provides api's for Machine Learning . 
