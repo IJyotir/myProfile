@@ -7,9 +7,25 @@ image: "img/e.jpg"
 date:   2020-01-04 10:12:15
 ---
 
-1. [Pytorch Fundamental](https://github.com/ijbo/ML_Theory/blob/master/Pytorch/Pytorch_Fundatmentals.ipynb)
+# Pytorch Fundamentals : 
+#### Date 31-Jan-2019
+
+1. [Pytorch Fundamental : Notebook ](https://github.com/ijbo/ML_Theory/blob/master/Pytorch/Pytorch_Fundatmentals.ipynb)
+- In this Fundamental Notebook I try to cover Numpy and Pytorch basics one need to start Pytorch coding .
+- This Covers Topics like :
+  1. Creating a Matrix.
+  2. Create Matrices with Default values
+  3. Seed for Reproduce
+  4. Numpy to Torch Bridge
+  5. Torch Tensor to Numpy
+  6. Tensor Resize
+  7. Element wise Operations
+  8. Tensor Mean
+  9. Variables and Gradients
 
 # Reasons to Learn Pytorch : 
+#### Date 31-Jan-2019
+
 (There is a link with the bold points) 
 1. **[Tutorial](https://pytorch.org/tutorials/)** : The tutorial of Pytorch covers a lot of basics to Build a Deep Neural Net. Very easy to start development with pytorch since it  is very similar to Python.
 2. **[Image](https://pytorch.org/tutorials/#image)**: Basic Examples on building Deep Neural nets and GAN's.
@@ -20,4 +36,3 @@ date:   2020-01-04 10:12:15
 -  [`Microsoft`](https://twitter.com/jeremyphoward/status/1182444543574044677?lang=en)
 -  [`OpenAI`](https://twitter.com/OpenAI/status/1222927584033247232)
 7. **[Comparisions between Pytorch and TF](https://builtin.com/data-science/pytorch-vs-tensorflow)**
-
