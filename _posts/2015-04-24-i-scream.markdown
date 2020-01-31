@@ -10,12 +10,14 @@ date:   2020-01-04 10:12:15
 # Logistic Regression :
 
 **[Logistic Regression : Click to open Notebook](https://github.com/ijbo/ML_Theory/blob/master/Pytorch/Logistic_Regression.ipynb)**
+
 **[Colab Notebook](https://github.com/ijbo/ML_Theory/blob/master/Pytorch/Logistic_regression_colabs.ipynb)**
 
 
 # Linear Regression :
 
 **[Linear regression : Click to open Notebook](https://github.com/ijbo/ML_Theory/blob/master/Pytorch/Linear_Regression.ipynb)**
+
 **[Colab Notebook](https://github.com/ijbo/ML_Theory/blob/master/Pytorch/Linear_Regression_colabs.ipynb)**
 
 
