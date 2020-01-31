@@ -7,4 +7,4 @@ image: "img/e.jpg"
 date:   2020-01-04 10:12:15
 ---
 
-
+[Pytorch Fundamental](https://github.com/ijbo/ML_Theory/blob/master/Pytorch/Pytorch_Fundatmentals.ipynb)
