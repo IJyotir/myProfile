@@ -4,14 +4,42 @@ subtitle: "But do you scream?"
 author: "Jyoti"
 avatar: "img/authors/wferr.png"
 image: "img/e.jpg"
-date:   2020-01-31 19:12:15
+date:   2020-02-02 19:12:15
 ---
 
+# Feed Forward Neural Network :
+
+- Understanding the buzz words in simple English :)
+	1.  Logistic Regression transition to FNN
+	2.  Non-Linearity
+	3.  Activation functions
+	4.  FNN in Pytorch
+	5.  Live coding and line by line explanation of the Neural Network .
+	6.  Writing the code in CPU and GPU
+	7.  Understanding Hidden layers
+	8.  Understanding Hidden Neurons
+	9.  Understanding Readout Layers
+	10.  Weights and Biases
+	11.  Maths behind the code .
+	12.  Each Layer input output .
+
+- Details and Code in Pytorch :[Creating a Feed Forward NN using Logistic and Linear Regression : ](https://github.com/ijbo/ML_Theory/blob/master/Pytorch/Feed_Forward_NN.ipynb)
+- This code can be run on GCP : [Colab Notebook](https://github.com/ijbo/ML_Theory/blob/master/Pytorch/FeedForwardNN_colabs.ipynb)
+
 # Logistic Regression :
-**[Logistic Regression : Click to open Notebook](https://github.com/ijbo/ML_Theory/blob/master/Pytorch/Logistic_Regression.ipynb)**
 
-**[Colab Notebook](https://github.com/ijbo/ML_Theory/blob/master/Pytorch/Logistic_regression_colabs.ipynb)**
-
+- Code in Pytorch **[Logistic Regression : Click to open Notebook](https://github.com/ijbo/ML_Theory/blob/master/Pytorch/Logistic_Regression.ipynb)**
+- This code can be run on GCP : **[Colab Notebook](https://github.com/ijbo/ML_Theory/blob/master/Pytorch/Logistic_regression_colabs.ipynb)**
+- Logistic Regression :
+	1.  What is used for
+	2.  Why it is used in Deep Learning
+	3.  How it is used in DL
+	4.  Loss function in Linear regression
+	5.  Gradient Descent in Linear Regression
+	6.  Back Propagation in DL
+	7.  Multiclass and Multilabel.	
+	8.  Softmax and Sigmoid Function .
+	9.  Cross Entropy loss function
 
 # Linear Regression :
 
@@ -38,6 +66,9 @@ date:   2020-01-31 19:12:15
 7.  Understanding how Calculus works in finding Gradients ?
 8.  What is Back-propagation ?
 9.  What is Forward propagation ?
+
+
+
 
 # Pytorch Fundamentals : 
 #### Date 31-Jan-2020
