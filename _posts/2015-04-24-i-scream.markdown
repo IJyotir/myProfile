@@ -8,7 +8,6 @@ date:   2020-01-31 19:12:15
 ---
 
 # Logistic Regression :
-
 **[Logistic Regression : Click to open Notebook](https://github.com/ijbo/ML_Theory/blob/master/Pytorch/Logistic_Regression.ipynb)**
 
 **[Colab Notebook](https://github.com/ijbo/ML_Theory/blob/master/Pytorch/Logistic_regression_colabs.ipynb)**
@@ -16,10 +15,29 @@ date:   2020-01-31 19:12:15
 
 # Linear Regression :
 
-**[Linear regression : Click to open Notebook](https://github.com/ijbo/ML_Theory/blob/master/Pytorch/Linear_Regression.ipynb)**
+- Code in Pytorch **[Linear regression : Click to open Notebook](https://github.com/ijbo/ML_Theory/blob/master/Pytorch/Linear_Regression.ipynb)**
+- The Notebook contains a high level understanding of the Linear regression and how to make it work with Pytorch library. 
+- This code can be run on GCP : **[Colab Notebook](https://github.com/ijbo/ML_Theory/blob/master/Pytorch/Linear_Regression_colabs.ipynb)**
+- Understand the  code Steps:
+	- Step 1: Load Dataset
+	- Step 2: Make Dataset Iterable
+	- Step 3: Create Model Class
+	- Step 4: Instantiate Model Class
+	- Step 5: Instantiate Loss Class
+	- Step 6: Instantiate Optimizer Class
+	- Step 7: Train Model 
 
-**[Colab Notebook](https://github.com/ijbo/ML_Theory/blob/master/Pytorch/Linear_Regression_colabs.ipynb)**
+# Gradients :
 
+1.  What is Gradients ?
+2.  The Maths behind Gradients
+3.  Why Gradients are used in ML?
+4.  How they help to reduce the loss function ?
+5.  How they help to update the weights in machine Learning ?
+6.  The Chain rule of derivation .
+7.  Understanding how Calculus works in finding Gradients ?
+8.  What is Back-propagation ?
+9.  What is Forward propagation ?
 
 # Pytorch Fundamentals : 
 #### Date 31-Jan-2020
@@ -36,6 +54,7 @@ date:   2020-01-31 19:12:15
     7. Element wise Operations
     8. Tensor Mean
     9. Variables and Gradients
+    10. GPU-CPU toggling 
 
 # Reasons to Learn Pytorch : 
 #### Date 31-Jan-2020
