@@ -4,11 +4,11 @@ subtitle: "But do you scream?"
 author: "Jyoti"
 avatar: "img/authors/wferr.png"
 image: "img/e.jpg"
-date:   2020-02-02 19:12:15
+date:   2020-02-04 19:12:15
 ---
 
 # Feed Forward Neural Network :
-
+#### Date 04-Feb-2020
 - Understanding the buzz words in simple English :)
 	1.  Logistic Regression transition to FNN
 	2.  Non-Linearity
@@ -27,7 +27,7 @@ date:   2020-02-02 19:12:15
 - This code can be run on GCP : [Colab Notebook](https://github.com/ijbo/ML_Theory/blob/master/Pytorch/FeedForwardNN_colabs.ipynb)
 
 # Logistic Regression :
-
+#### Date 04-Feb-2020
 - Code in Pytorch **[Logistic Regression : Click to open Notebook](https://github.com/ijbo/ML_Theory/blob/master/Pytorch/Logistic_Regression.ipynb)**
 - This code can be run on GCP : **[Colab Notebook](https://github.com/ijbo/ML_Theory/blob/master/Pytorch/Logistic_regression_colabs.ipynb)**
 - Logistic Regression :
@@ -42,7 +42,7 @@ date:   2020-02-02 19:12:15
 	9.  Cross Entropy loss function
 
 # Linear Regression :
-
+#### Date 04-Feb-2020
 - Code in Pytorch **[Linear regression : Click to open Notebook](https://github.com/ijbo/ML_Theory/blob/master/Pytorch/Linear_Regression.ipynb)**
 - The Notebook contains a high level understanding of the Linear regression and how to make it work with Pytorch library. 
 - This code can be run on GCP : **[Colab Notebook](https://github.com/ijbo/ML_Theory/blob/master/Pytorch/Linear_Regression_colabs.ipynb)**
@@ -56,6 +56,7 @@ date:   2020-02-02 19:12:15
 	- Step 7: Train Model 
 
 # Gradients :
+#### Date 04-Feb-2020
 
 ### 1.  What is Gradients ?
 - Gradients are slope of a Tangent , in past we have studied Slope of a line. 
@@ -71,8 +72,8 @@ date:   2020-02-02 19:12:15
 - $\large Gravity \propto  \frac {\large 1}{\large Distance}$
 - So if Gravity and Distance are plotted it is a curve and not a straight line .
 - Here Newton was trying to calculate the gradient of a Tangent. 
-- [Calculus Video 1 ](https://www.youtube.com/watch?v=tt2DGYOi3hc)
-- [Calculus Video 2](https://www.youtube.com/watch?v=50Bda5VKbqA)
+- **[Calculus Video 1 links ](https://www.youtube.com/watch?v=tt2DGYOi3hc)**
+- **[Calculus Video 2 links](https://www.youtube.com/watch?v=50Bda5VKbqA)**
 - These two Videos are sufficient to explain , why do we need calculus to find Gradient of a Loss function.
 ### 3.  Why Gradients are used in ML?
 ### 4.  How they help to reduce the loss function ?
