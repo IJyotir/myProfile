@@ -63,6 +63,7 @@ date:   2020-02-04 19:12:15
 - Slope of a line is Rise/Run , the change in Y divided by the change in X.
 - Since the loss functions are not a straight line we need to find slope of a Tangent in in that loss function w.r.t change in the weights or parameters.
 - To do this we use Calculus and the Maths is covered below 
+
 ### 2.  The Maths behind Gradients
 - Calculus is also called as infinitesimal **calculus** or "the **calculus** of infinitesimals" 
 - In Latin Calculus means small Pebble , in history we use to do Mathematics using Pebble or small stones.
@@ -75,6 +76,7 @@ date:   2020-02-04 19:12:15
 - **[Calculus Video 1 links ](https://www.youtube.com/watch?v=tt2DGYOi3hc)**
 - **[Calculus Video 2 links](https://www.youtube.com/watch?v=50Bda5VKbqA)**
 - These two Videos are sufficient to explain , why do we need calculus to find Gradient of a Loss function.
+
 ### 3.  Why Gradients are used in ML?
 - In Machine Learning We have the find the best possible Hypothesis which provides the least amount of loss .  
 - **Hypothesis**: y_pred = mx + b
@@ -93,13 +95,20 @@ date:   2020-02-04 19:12:15
 - The Parameters which we have initialized with some random value we update it with the change time Learning rate.
 - Learning Rate scales the change(slope or Gradient) so that we don't increase or Decrease the parameters too much.
 - This way we keep repeating this step to minimize the loss and better the Hypothesis function.
-### 5.  The Chain rule of derivation .
 
+### 5.  What is Forward propagation ?
+- **[Solving XOR with Neural Net : click here ](https://www.youtube.com/watch?v=kNPGXgzxoHw&t=2s)**
+- Here we understand how a simple Neural Net is constructed .
+- Forward Propagation means moving from the start to the end of the network and calculate the loss.
 ### 6.  What is Back-propagation ?
-### 7.  What is Forward propagation ?
+- In Back-Propagation , we reduce the loss and update the parameters using Gradients and Chain Rule 
+-  This process of updating is also called as Optimizing and further we will read about the optimizes in details. 
+- There are tuning done to the optimizer to improve on the speed to find the global minima of the loss function.
 
-
-
+### 7.  The Chain rule of derivation .
+- Chain Rule of Derivation helps to differentiate a function.
+- Lets say a function f(x) = Ax+B and f(y)= C(f(x))+D , now to find the derivative of f(y) wrt to x, we need to find derivative of f(x) wrt to x .
+- **[Chain rule in Back-propagation link ](https://www.youtube.com/watch?v=0e0z28wAWfg&t=659s)**
 
 # Pytorch Fundamentals : 
 #### Date 31-Jan-2020
