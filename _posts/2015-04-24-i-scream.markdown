@@ -5,8 +5,9 @@ author: "Jyoti"
 avatar: "img/authors/wferr.png"
 image: "img/e.jpg"
 date:   2020-02-04 19:12:15
-Markdown : https://github.com/IJyotir/myProfile/blob/gh-pages/_posts/2015-04-24-i-scream.markdown
 ---
+
+##### Markdownlink : https://github.com/IJyotir/myProfile/blob/gh-pages/_posts/2015-04-24-i-scream.markdown
 
 # Feed Forward Neural Network :
 #### Date 04-Feb-2020
