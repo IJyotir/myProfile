@@ -57,15 +57,30 @@ date:   2020-02-02 19:12:15
 
 # Gradients :
 
-1.  What is Gradients ?
-2.  The Maths behind Gradients
-3.  Why Gradients are used in ML?
-4.  How they help to reduce the loss function ?
-5.  How they help to update the weights in machine Learning ?
-6.  The Chain rule of derivation .
-7.  Understanding how Calculus works in finding Gradients ?
-8.  What is Back-propagation ?
-9.  What is Forward propagation ?
+### 1.  What is Gradients ?
+- Gradients are slope of a Tangent , in past we have studied Slope of a line. 
+- Slope of a line is Rise/Run , the change in Y divided by the change in X.
+- Since the loss functions are not a straight line we need to find slope of a Tangent in in that loss function w.r.t change in the weights or parameters.
+- To do this we use Calculus and the Maths is covered below 
+### 2.  The Maths behind Gradients
+- Calculus is also called as infinitesimal **calculus** or "the **calculus** of infinitesimals" 
+- In Latin Calculus means small Pebble , in hist wee use to do Mathematics using Pebble.
+- Geometry is about shapes, Algebra is about Relationships , Probability is about Predictions or chance , **Calculus** is about all the things that change.
+-  17th century both Isaac Newton and Gottfried Wilhelm Leibniz started working on a problem and invented Calculus.
+- Isaac Newton was trying to find how Gravity changes over distance , the equation tells us gravity is inversely proportional to distance . 
+- $\large Gravity \propto  \frac {\large 1}{\large Distance}$
+- So if Gravity and Distance are plotted it is a curve and not a straight line .
+- Here Newton was trying to calculate the gradient of a Tangent. 
+- [Calculus Video 1 ](https://www.youtube.com/watch?v=tt2DGYOi3hc)
+- [Calculus Video 2](https://www.youtube.com/watch?v=50Bda5VKbqA)
+- These two Videos are sufficient to explain , why do we need calculus to find Gradient of a Loss function.
+### 3.  Why Gradients are used in ML?
+### 4.  How they help to reduce the loss function ?
+### 5.  How they help to update the weights in machine Learning ?
+### 6.  The Chain rule of derivation .
+### 7.  Understanding how Calculus works in finding Gradients ?
+### 8.  What is Back-propagation ?
+### 9.  What is Forward propagation ?
 
 
 
