@@ -7,7 +7,7 @@ image: "img/e.jpg"
 date:   2020-02-04 19:12:15
 ---
 
-##### Markdownlink : https://github.com/IJyotir/myProfile/blob/gh-pages/_posts/2015-04-24-i-scream.markdown
+##### [Markdown link of this same page rendered by Github ](https://github.com/IJyotir/myProfile/blob/gh-pages/_posts/2015-04-24-i-scream.markdown)
 
 # Feed Forward Neural Network :
 #### Date 04-Feb-2020
