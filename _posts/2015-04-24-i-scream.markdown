@@ -62,19 +62,19 @@ date:   2020-02-04 19:12:15
 
 ### 1.  What is Gradients ?
 - Gradients are slope of a Tangent , in past we have studied Slope of a line. 
-- Slope of a line is Rise/Run , the change in Y divided by the change in X.
-- Since the loss functions are not a straight line we need to find slope of a Tangent in in that loss function w.r.t change in the weights or parameters.
-- To do this we use Calculus and the Maths is covered below 
+- Slope of a line is Rise/Run that is the change in Y divided by the change in X.
+- Since the loss functions are not a straight line we need to find slope of a Tangent in that loss function w.r.t change in the weights or parameters.
+- To do this we use Calculus and the Maths of it is covered below.
 
 ### 2.  The Maths behind Gradients
 - Calculus is also called as infinitesimal **calculus** or "the **calculus** of infinitesimals" 
-- In Latin Calculus means small Pebble , in history we use to do Mathematics using Pebble or small stones.
-- Geometry is about shapes, Algebra is about Relationships , Probability is about Predictions or chance , **Calculus** is about all the things that change.
+- In Latin, Calculus means Pebble. Mathematics was done using Pebble or small stones in past.
+- What Calculus isto, as Geometry is about shapes, Algebra is about Relationships , Probability is about Predictions or chance , **Calculus** is about all the things that change.
 -  17th century both Isaac Newton and Gottfried Wilhelm Leibniz started working on a problem and invented Calculus.
-- Isaac Newton was trying to find how Gravity changes over distance , the equation tells us gravity is inversely proportional to distance . 
-- $\large Gravity \propto  \frac {\large 1}{\large Distance}$
-- So if Gravity and Distance are plotted it is a curve and not a straight line .
-- Here Newton was trying to calculate the gradient of a Tangent. 
+- Isaac Newton was trying to find how Gravity changes over distance, the equation tells us gravity is inversely proportional to distance . 
+- $\large Gravity \propto  \frac {\large 1}{\large Distance}$ : Latex is not supported on the blog us can open the Markdown link.
+- If you plot Gravity and Distance it is a curve and not a straight line, so finding slope of a curve was not possible using the avaliable mathematics.
+- Here Newton was trying to calculate the gradient of a Tangent and not the gradient of a Secant.
 - **[Calculus Video 1 links ](https://www.youtube.com/watch?v=tt2DGYOi3hc)**
 - **[Calculus Video 2 links](https://www.youtube.com/watch?v=50Bda5VKbqA)**
 - These two Videos are sufficient to explain , why do we need calculus to find Gradient of a Loss function.
@@ -91,11 +91,11 @@ date:   2020-02-04 19:12:15
 
 ### 4.  How they help to reduce the loss function ?
 - Gradient gives the change in the Loss w.r.t the change in the Coefficients.
-- The Gradient has two elements a Sign (+ve or -ve) and a value. 
-- The Sign tells us the slope is Positive or slope is Negative.
-- The Value tells us the how mush is the Slope.
-- The Parameters which we have initialized with some random value we update it with the change time Learning rate.
-- Learning Rate scales the change(slope or Gradient) so that we don't increase or Decrease the parameters too much.
+- The Gradient has two elements a Sign (+ve or -ve) and a Value. 
+- The Sign tells us the slope is Positive or slope is Negative and the direction of the minima of the loss function.
+- The Value tells us the how much is the Slope.
+- The Parameters which we have initialized [at the start while creating a NN] with some random value we update it with the change times the Learning rate.
+- Learning Rate scales the change(slope or Gradient) so that we don't increase or Decrease the parameters by too much.
 - This way we keep repeating this step to minimize the loss and better the Hypothesis function.
 
 ### 5.  What is Forward propagation ?
