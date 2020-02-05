@@ -10,11 +10,19 @@ date:   2020-01-14 10:17:15
 ## **Books 2020**
 
 1. The Infinite Game - How Great Businesses Achieve Long-lasting Success
-2. Looking for an interesting new read.
+2. Outliers - The story of Success **The Best book I have read so far**
+3. The Rosie Result : Haven't Fininshed reading it 
 
 ## **The Infinite Game - Simon Sinek**
 
 Not only for business people, but for everyone. This book opened more my mind to the meaning of life. Everyone with a spark of good inside could get inspired and think onwards what choices they make for improving their life and especially the lives of others in the long term. This book would teach me patience in life working for a better tomorrow.  What I've thought before, it's actually here too: that better is better than the best. The process in getting better and sticking to our Just Cause might be long (actually being infinite) and not pleasant at all times but it's more worth it than to look only for the short-term material success.
+
+## **Outliers - Malcolm Gladwell**
+
+In this stunning new book, Malcolm Gladwell takes us on an intellectual journey through the world of "outliers" - the best and the brightest, the most famous and the most successful. He asks the question: what makes high achievers different? His answer is that we pay too much attention to what successful people are like and too little attention to where they are from: that is, their culture, their family, their generation, and the idiosyncratic experiences of their upbringing. Along the way he explains the secrets of software billionaires, what it takes to be a great soccer player, why Asians are good at math, and what made the Beatles the greatest rock band.
+
+Brilliant and entertaining, Outliers is a landmark work that will simultaneously delight and illuminate.
+
 
 ## **Books 2019**
 
