@@ -15,15 +15,15 @@ date:   2020-01-15 09:15:17
 
 ### 2.Transfer Learning and Language Modeling in Service Now.
 
-### Security and Derivative recommendation using Sentiment classification.
+### 3.Security and Derivative recommendation using Sentiment classification.
 
-### Solar Cell Defects Detection.
+### 4.Solar Cell Defects Detection.
 
-### Bank Fraud Detection and Real time Auth System.
+### 5.Bank Fraud Detection and Real time Auth System.
 
-### Data Center Analytics and Visualization.
+### 6.Data Center Analytics and Visualization.
 
-### Cloud Application Analytics using Knowledge Graphs
+### 7.Cloud Application Analytics using Knowledge Graphs
 
 ### Please Zoom or Download the Profile.
 
