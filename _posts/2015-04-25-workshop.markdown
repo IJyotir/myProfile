@@ -11,7 +11,7 @@ date:   2020-01-15 09:15:17
 
 ### Please Zoom or Download the Profile.
 
-<object data="document/Jyoti_bose_Summary.pdf" type="application/pdf" width="600px" height="50px">
+<object data="document/Jyoti_bose_Summary.pdf" type="application/pdf" width="600px" height="100px">
     <embed src="document/Jyoti_bose_Summary.pdf" type="application/pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: 
             <a href="document/Jyoti_bose_Summary.pdf">Download PDF</a>.</p>
