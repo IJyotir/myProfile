@@ -9,11 +9,9 @@ date:   2020-01-15 09:15:17
 
 <img src="img/Summary_2.jpg" alt="Resume" width="100%" height="135%">
 
-<embed src="document/Jyoti_bose_Summary.pdf" width="1000" height="800" frameborder="0" allowfullscreen>
-
 ### Please Zoom or Download the Profile.
 
-<object data="document/Jyoti_bose_Summary.pdf" type="application/pdf" width="600px" height="200px">
+<object data="document/Jyoti_bose_Summary.pdf" type="application/pdf" width="600px" height="50px">
     <embed src="document/Jyoti_bose_Summary.pdf" type="application/pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: 
             <a href="document/Jyoti_bose_Summary.pdf">Download PDF</a>.</p>
