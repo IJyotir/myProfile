@@ -7,7 +7,7 @@ image: "img/f.jpg"
 date:   2020-01-15 09:15:17
 ---
 
-<object data="document/Jyoti_bose_Summary.pdf" type="application/pdf" width="750px" height="750px">
+<object data="document/Jyoti_bose_Summary.pdf" type="application/pdf" width="500px" height="500px">
     <embed src="document/Jyoti_bose_Summary.pdf" type="application/pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="document/Jyoti_bose_Summary.pdf">Download PDF</a>.</p>
     </embed>
