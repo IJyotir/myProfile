@@ -25,7 +25,11 @@ date:   2020-01-15 09:15:17
 
 ### 7.Cloud Application Analytics using Knowledge Graphs
 
-### Please Zoom or Download the Profile.
+
+
+
+
+<span style="color: blue;">Please Zoom or Download the Profile.</span> .
 
 <object data="document/Jyoti_bose_Summary.pdf" type="application/pdf" width="600px" height="100px">
     <embed src="document/Jyoti_bose_Summary.pdf" type="application/pdf">
