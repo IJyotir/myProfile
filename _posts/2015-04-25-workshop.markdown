@@ -11,19 +11,19 @@ date:   2020-02-18 09:15:17
 
 
 ## Project Details : 
-### 1.Best Route Recommendation and Real Time Safety Alerting.
+#### 1.Best Route Recommendation and Real Time Safety Alerting.
 
-### 2.Transfer Learning and Language Modeling in Bugzilla and other Ticketing Systems.
+#### 2.Transfer Learning and Language Modeling in Bugzilla and other Ticketing Systems.
 
-### 3.Security and Derivative recommendation using Sentiment classification.
+#### 3.Security and Derivative recommendation using Sentiment classification.
 
-### 4.Solar Cell Defects Detection.
+#### 4.Solar Cell Defects Detection.
 
-### 5.Bank Fraud Detection and Real time Auth System.
+#### 5.Bank Fraud Detection and Real time Auth System.
 
-### 6.Data Center Analytics and Visualization.
+#### 6.Data Center Analytics and Visualization.
 
-### 7.Cloud Application Analytics using Knowledge Graphs
+#### 7.Cloud Application Analytics using Knowledge Graphs
 
 
 
