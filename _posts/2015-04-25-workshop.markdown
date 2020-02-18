@@ -28,7 +28,6 @@ date:   2020-02-18 09:15:17
 
 
 
-
 <span style="color: blue;">Please Zoom or Download the Profile.</span> .
 
 <object data="document/Jyoti_bose_Summary.pdf" type="application/pdf" width="600px" height="250px">
