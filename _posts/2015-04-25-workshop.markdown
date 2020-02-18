@@ -1,5 +1,5 @@
 ---
-title:  "My Workshop"
+title:  "My Workshop - Resume"
 subtitle: "It's always a bit messy"
 author: "Jyoti"
 avatar: "img/authors/wferr.png"
