@@ -1,5 +1,5 @@
 ---
-title:  "Artist"
+title:  "Artist - Under Construction"
 subtitle: "The sun does not abandon the moon to darkness."
 author: "Wferr"
 avatar: "img/authors/wferr.png"
