@@ -13,7 +13,7 @@ date:   2020-02-18 09:15:17
 ## Project Details : 
 ### 1.Best Route Recommendation and Real Time Safety Alerting.
 
-### 2.Transfer Learning and Language Modeling in Service Now.
+### 2.Transfer Learning and Language Modeling in Bugzilla and other Ticketing Systems.
 
 ### 3.Security and Derivative recommendation using Sentiment classification.
 
