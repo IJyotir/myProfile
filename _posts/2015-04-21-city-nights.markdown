@@ -4,14 +4,16 @@ subtitle: "Learning never exhausts the mind."
 author: "Jbo"
 avatar: "img/authors/wferr.png"
 image: "img/b.jpg"
-date:   2020-01-14 10:17:15
+date:   2020-02-23 10:17:15
 ---
 
 ## **Books 2020**
 
 1. The Infinite Game - How Great Businesses Achieve Long-lasting Success
 2. Outliers - The story of Success **The Best book I have read so far**
-3. The Rosie Result : Haven't Fininshed reading it 
+3. The Rosie Result - From the Rosie Project 
+4. Upheaval - Turning Points for Nations in Crisis : Still Reading
+5. A Gentleman in Moscow - Can a life without luxury be the richest of all ? : Just Bought 
 
 ## **The Infinite Game - Simon Sinek**
 
@@ -23,6 +25,10 @@ In this stunning new book, Malcolm Gladwell takes us on an intellectual journey 
 
 Brilliant and entertaining, Outliers is a landmark work that will simultaneously delight and illuminate.
 
+## **The Rosie Result - Graeme Simsion **
+
+Fantastically moving and funny.
+The listen had felt like an empathy exercise. The characters created by the brilliant Grame Simson are lovely and unique. They solve loads of problems (technical and interpersonal) and take care of one another in the quirkiest and most lovable ways.
 
 ## **Books 2019**
 
