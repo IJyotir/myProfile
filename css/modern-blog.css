@@ -1,4 +1,30 @@
 
+Skip to content
+Pull requests
+Issues
+Marketplace
+Explore
+@IJyotir
+inded /
+Jekyll_modern-blog
+
+11
+213
+
+    254
+
+Code
+Issues 6
+Pull requests 0
+Actions
+Projects 0
+Wiki
+Security
+Insights
+Jekyll_modern-blog/css/modern-blog.css
+@Wferr Wferr re-push to fix large repo size 37340cc on Jul 11, 2015
+358 lines (300 sloc) 5.01 KB
+
 /*CARD */
 
 .card {
@@ -109,7 +135,7 @@
 }
 
 .card__copy p:first-of-type {
-	font-size: 1em;
+	font-size: 1.5em;
 	padding: 0 0 1em 0;
 }
 
@@ -356,3 +382,18 @@ a:focus {
 	-webkit-transform: scale(1)!important;
 	transform: scale(1)!important;
 }
+
+    © 2020 GitHub, Inc.
+    Terms
+    Privacy
+    Security
+    Status
+    Help
+
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
+
