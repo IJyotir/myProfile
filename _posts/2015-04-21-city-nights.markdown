@@ -25,7 +25,7 @@ In this stunning new book, Malcolm Gladwell takes us on an intellectual journey 
 
 Brilliant and entertaining, Outliers is a landmark work that will simultaneously delight and illuminate.
 
-## **The Rosie Result - Graeme Simsion **
+## **The Rosie Result - Graeme Simsion**
 
 Fantastically moving and funny.
 The listen had felt like an empathy exercise. The characters created by the brilliant Grame Simson are lovely and unique. They solve loads of problems (technical and interpersonal) and take care of one another in the quirkiest and most lovable ways.
