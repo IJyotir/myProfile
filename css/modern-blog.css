@@ -153,7 +153,7 @@
 
 @media only screen and (max-width: 980px) {
 	.card {
-		width: 46%;
+		width: 66%;
 		padding-bottom: 32.2%;
 	}
 	.card__content {
@@ -356,18 +356,3 @@ a:focus {
 	-webkit-transform: scale(1)!important;
 	transform: scale(1)!important;
 }
-
-    © 2020 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Help
-
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
